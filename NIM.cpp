@@ -1,4 +1,4 @@
-//NIM dabs október 1997
+/NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -6,6 +6,7 @@
 
 using namespace std;
 
+cout << "Sunna Guðbjartsdóttir"<< endl;
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
